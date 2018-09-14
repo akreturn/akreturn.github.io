@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-14T06:09:06.159Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/09/14/hello-world.1/"/>
+    <id>http://yoursite.com/2018/09/14/hello-world.1/</id>
+    <published>2018-09-14T06:04:40.058Z</published>
+    <updated>2018-09-14T06:09:06.159Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Fri Sep 14 2018 14:13:19 GMT+0800 (CST) --><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Sep 14 2018 14:13:19 GMT+0800 (CST) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/09/14/hello-world/"/>
+    <id>http://yoursite.com/2018/09/14/hello-world/</id>
+    <published>2018-09-14T03:20:15.634Z</published>
+    <updated>2018-09-14T06:06:49.149Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Fri Sep 14 2018 14:13:19 GMT+0800 (CST) --><h3 id="hello-worldhex"><a href="#hello-worldhex" class="headerlink" title="hello worldhex"></a>hello worldhex</h3><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Sep 14 2018 14:13:19 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;hello-worldhex&quot;&gt;&lt;a href=&quot;#hello-worldhex&quot; class=&quot;headerlink&quot; title=&quot;hello
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
