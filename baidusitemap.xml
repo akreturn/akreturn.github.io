@@ -4,13 +4,39 @@
 
     
   <url>
-    <loc>http://yoursite.com/2013/07/13/%E6%B5%8B%E8%AF%95hexo%20api/</loc>
-    <lastmod>2018-09-17T08:35:02.918Z</lastmod>
+    <loc>http://yoursite.com/2018/09/17/javascript%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/</loc>
+    <lastmod>2018-09-17T14:57:21.319Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2013-07-13T12:46:25.000Z</pubTime>
+        <title>javascript - 入门篇</title>
+        <pubTime>2018-09-17T14:32:21.672Z</pubTime>
         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://yoursite.com/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/15/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2018-09-17T14:56:28.582Z</lastmod>
+    <data>
+        <display>
+        <title>使用hexo+github搭建个人博客</title>
+        <pubTime>2018-09-15T10:45:17.992Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>github</tag>
+         
+        <tag>gitpage</tag>
+         
          
            
         </display>
@@ -85,21 +111,4 @@
     
     
     
-    
-  <url>
-    <loc>http://yoursite.com/2018/09/15/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2018-09-15T11:00:21.371Z</lastmod>
-    <data>
-        <display>
-        <title>使用hexo+github搭建个人博客</title>
-        <pubTime>2018-09-15T10:45:17.992Z</pubTime>
-        
-        <tag>Hexo github gitpage</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
