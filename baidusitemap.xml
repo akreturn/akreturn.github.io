@@ -4,12 +4,52 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/09/17/javascript%20-%20%E5%85%A5%E9%97%A8%E7%AF%87/</loc>
-    <lastmod>2018-09-17T14:59:52.853Z</lastmod>
+    <loc>http://yoursite.com/2018/09/17/javascript%20-%20%E5%85%A5%E9%97%A8%E7%AF%87%20-%20%E5%AF%BC%E8%AE%BA/</loc>
+    <lastmod>2018-09-17T15:38:17.789Z</lastmod>
     <data>
         <display>
-        <title>javascript - 入门篇</title>
+        <title>javascript - 入门篇 - 导论</title>
         <pubTime>2018-09-17T14:32:21.672Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://yoursite.com/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/17/javascript%20-%20%E5%85%A5%E9%97%A8%E7%AF%87-%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2018-09-17T15:38:16.525Z</lastmod>
+    <data>
+        <display>
+        <title>javascript - 入门篇-历史</title>
+        <pubTime>2018-09-17T15:01:16.833Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://yoursite.com/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/17/javascript%20-%20%E5%85%A5%E9%97%A8%E7%AF%87-JavaScript%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2018-09-17T15:38:05.090Z</lastmod>
+    <data>
+        <display>
+        <title>javascript - 入门篇-JavaScript 的基本语法</title>
+        <pubTime>2018-09-17T15:07:36.820Z</pubTime>
         
         <tag>javascript</tag>
          
