@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/czsc/index.html</loc>
+    
+    <lastmod>2018-09-17T07:31:14.725Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/09/14/hello-world/</loc>
+    
+    <lastmod>2018-09-17T07:29:03.431Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com//404.html</loc>
     
     <lastmod>2018-09-17T07:03:42.355Z</lastmod>
@@ -16,14 +30,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/repository/index.html</loc>
-    
-    <lastmod>2018-09-15T15:49:36.952Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://yoursite.com/javascript/index.html</loc>
     
     <lastmod>2018-09-15T14:03:54.661Z</lastmod>
     
@@ -68,13 +75,6 @@
     <loc>http://yoursite.com/2018/09/15/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2018-09-15T11:00:21.371Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/09/14/hello-world/</loc>
-    
-    <lastmod>2018-09-15T10:18:05.890Z</lastmod>
     
   </url>
   
