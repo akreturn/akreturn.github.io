@@ -4,30 +4,22 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/10/17/idea/webstrom%20svn%E8%BF%9E%E6%8E%A5https%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98:%20E230001:%20Server%20SSL%20certificate%20verification%20failed:%20certificateissued/</loc>
-    <lastmod>2018-10-17T02:41:01.528Z</lastmod>
+    <loc>http://yoursite.com/2018/10/17/idea/svn%E8%BF%9E%E6%8E%A5https%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98:%20E230001:%20Server%20SSL%20certificate%20verification%20failed:%20certificateissued/</loc>
+    <lastmod>2018-10-17T02:49:05.512Z</lastmod>
     <data>
         <display>
-        <title>issued</title>
+        <title>svn连接https报错问题: E230001: Server SSL certificate verification failed: certificateissued</title>
         <pubTime>2018-10-17T02:38:53.000Z</pubTime>
         
+        <tag>webstrom</tag>
+         
+        <tag>Idea</tag>
+         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/10/17/issued/</loc>
-    <lastmod>2018-10-17T02:39:48.821Z</lastmod>
-    <data>
-        <display>
-        <title>issued</title>
-        <pubTime>2018-10-17T02:39:48.000Z</pubTime>
-        
-         
-           
+             
+              <breadCrumb title="错误处理" url="http://yoursite.com/categories/%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/"/>
+          
         </display>
     </data>
     </url>
